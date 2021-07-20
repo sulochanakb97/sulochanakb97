@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sulochanakb97
 - 👀 I’m interested in ...Reasearch   
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently working on ...python
 - 💞️ I’m looking to collaborate on ...github 
 - 📫 How to reach me ...sulochanakb97@gmail.com
 
